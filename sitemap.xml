@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/ama-recap-1/</loc>
+    <loc>/post/</loc>
     <lastmod>2019-08-18T21:27:50+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <loc>/post/ama-recap-1/</loc>
+    <lastmod>2019-08-18T21:27:50+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
