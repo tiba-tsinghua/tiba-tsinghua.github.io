@@ -6,10 +6,19 @@
     <description>Recent content in Tsinghua International Blockchain Association on TIBA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Aug 2019 21:27:50 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2019 23:45:03 +0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TIBA AMA Recap #2 - LibraChina &amp; pLibra</title>
+      <link>/post/ama-recap-2/</link>
+      <pubDate>Wed, 21 Aug 2019 23:45:03 +0800</pubDate>
+      
+      <guid>/post/ama-recap-2/</guid>
+      <description>On the 21st of August, TIBA held the second event of its #AMA series. We are going to host regular ask me anything sessions with fascinating blockchain projects from China and around the world. We’d like to give the international community direct access to these projects and a chance to ask whatever you’re interested in. Scan the QR code below to get invited to the TIBA #AMA WeChat group and find out more!</description>
+    </item>
     
     <item>
       <title>TIBA AMA Recap #1 - Conflux</title>
