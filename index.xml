@@ -6,10 +6,19 @@
     <description>Recent content in Tsinghua International Blockchain Association on TIBA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Aug 2019 23:45:03 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2019 22:22:04 +0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TIBA AMA Recap #3 - NEO</title>
+      <link>/post/ama-recap-3/</link>
+      <pubDate>Wed, 04 Sep 2019 22:22:04 +0800</pubDate>
+      
+      <guid>/post/ama-recap-3/</guid>
+      <description>On the 4th of September, TIBA held the third event of its #AMA series. We are going to host regular ask me anything sessions with fascinating blockchain projects from China and around the world. We’d like to give the international community direct access to these projects and a chance to ask whatever you’re interested in. Scan the QR code below to get invited to the TIBA #AMA WeChat group and find out more!</description>
+    </item>
     
     <item>
       <title>TIBA AMA Recap #2 - LibraChina &amp; pLibra</title>
