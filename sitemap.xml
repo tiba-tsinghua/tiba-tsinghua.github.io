@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/2019-ai-blockchain-for-everyone/</loc>
+    <lastmod>2019-09-12T14:03:06+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/post/ama-recap-3/</loc>
     <lastmod>2019-09-04T22:22:04+08:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -50,7 +57,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-09-04T22:22:04+08:00</lastmod>
+    <lastmod>2019-09-12T14:03:06+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
