@@ -6,10 +6,20 @@
     <description>Recent content in Tsinghua International Blockchain Association on TIBA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Sep 2019 15:32:09 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2019 09:02:01 +0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Event recap | AI &amp; Blockchain</title>
+      <link>/post/2019-09-19-ai-blockchain/</link>
+      <pubDate>Fri, 27 Sep 2019 09:02:01 +0800</pubDate>
+      
+      <guid>/post/2019-09-19-ai-blockchain/</guid>
+      <description>On the 19th of September, TIBA co-hosted an event with TAIS, the AI Association of International Students from Tsinghua. We invited two companies, Cortex Lab and Matrix, to give us a lecture on the connection between Artificial Intelligence and Blockchain. Later on, our guests from the two companies were joined by Professor Wenguang Chen from Tsinghua University and Shize Qin from TokenInsight for a panel discussion.
+China is the biggest in the cryptocurrency market right now with over 60% of the hasheries coming from China.</description>
+    </item>
     
     <item>
       <title>TIBA AMA Recap #4 - Saito</title>
