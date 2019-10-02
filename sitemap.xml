@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/2019-09-24-polkadot/</loc>
+    <lastmod>2019-10-02T10:02:15+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/post/2019-09-19-ai-blockchain/</loc>
     <lastmod>2019-09-27T09:02:01+08:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -71,7 +78,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-09-27T09:02:01+08:00</lastmod>
+    <lastmod>2019-10-02T10:02:15+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
